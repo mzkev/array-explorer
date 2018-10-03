@@ -3,11 +3,11 @@
 1. After running `npm install --save-dev`, vulnerabilities found 260 vulnerabilities (227 low, 25 moderate, 6 high, 2 critical).
 2. Nothing was broken, the application still works the way it used to.
 
-## What was added '?'
+## What was added
 
 End to end testing using Cypress.io test runner.
 
-## What did it fix '?'
+## What did it fix
 
 The project lacked any test.
 
@@ -47,7 +47,7 @@ This was written with Cypress.io test runner. It runs only on Chrome Web Browser
 
 Cypress is a JavaScript based end to end testing framework that doesn’t uses selenium at all. It is built on top of mocha which is again a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. is a front end testing tool built with the modern web. It is easy to Set Up, write, Run and debug tests. Anything that runs in a browser can be tested using Cypress.
 
-## Advantages of Using Cypress'.'
+## Advantages of Using Cypress
 
 1. Easy and reliable testing for anything that runs on the web.
 2. Free and open source.
