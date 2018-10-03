@@ -11,7 +11,7 @@ End to end testing using Cypress.io test runner.
 
 The project lacked any test.
 
-## Files added and what it does'.'
+## Files added and what it does
 
   1. cypress.json - When a project is added to Cypress a cypress.json file is created. It contains two variables.
       * viewportHeight - 	Default height in pixels for the application under tests.
